@@ -16,6 +16,7 @@ Habilidades
 Objetivo
 
 Busco mi primera oportunidad para desarrollar mis conocimientos en programación, aprender de profesionales y contribuir con compromiso y responsabilidad.
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/c9dbb0fd-a6ff-4092-a9c7-8fa6430bf123" />
 
 ---
 
@@ -34,4 +35,4 @@ Objective
 
 I am looking for my first opportunity to develop my programming skills, learn from experienced professionals, and contribute with commitment and responsibility.
 
-<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/8d511a42-9859-4a86-b906-48d4941e2e8e" />
+
