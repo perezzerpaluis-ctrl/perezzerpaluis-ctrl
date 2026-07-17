@@ -3,6 +3,11 @@ HOJA DE VIDA
 luis Pérez
 
  Hoja de Vida para GitHub
+ 
+ DATOS PERSONALES
+ 📍bogota , colombia
+ 📱+57 322 7580519
+ 📧 perezzerpaluis@gmail.com
 
  Perfil Profesional
 
